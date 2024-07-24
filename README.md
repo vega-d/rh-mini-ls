@@ -22,7 +22,7 @@ To install `mini-ls`, clone the repository and run the installation script:
 
 ```bash
 git clone https://github.com/vega-d/rh-mini-ls.git
-cd mini-ls
+cd rh-mini-ls
 ./install.sh
 ```
 
